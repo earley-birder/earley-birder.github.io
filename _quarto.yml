@@ -28,7 +28,7 @@ website:
         icon: binoculars
     tools:
       - icon: github
-        href: github.com/earley-birder
+        href: https://github.com/earley-birder
       
 format:
   html:
