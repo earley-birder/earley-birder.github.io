@@ -6,9 +6,29 @@ website:
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: "Made with ❤️ and Quarto"
   navbar:
-    right:
+    title: Nathan G. Earley
+    left:
       - text: Home
         href: index.qmd
+        icon: house
+      - text: Research & Publications
+        href: research/index.qmd
+        icon: book
+      - text: Education
+        href: education/index.qmd
+        icon: mortarboard
+      - text: Teaching
+        href: teaching/index.qmd
+        icon: bus-front
+      - text: Talks
+        href: talks/index.qmd
+        icon: megaphone
+      - text: Community Science
+        href: community_science/index.qmd
+        icon: binoculars
+    tools:
+      - icon: github
+        href: github.com/earley-birder
       
 format:
   html:
