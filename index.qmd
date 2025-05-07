@@ -1,25 +1,28 @@
 ---
-title: "Alicia"
-subtitle: "Data Scientist"
+title: "Nathan G. Earley"
+subtitle: "Biodiversity | Ecology | Natural History"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: images/NatePete2016_DavidCoulson.jpg
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: trestles
+  image-shape: round
   links:
     - icon: github
       text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://github.com/earley-birder
 ---
 
-A little bit about me and my life.
+Note: This site is currently under development.
 
-## Education
+## Intro
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+I am an ecologist studying biodiversity and biogeography. 
 
-## Experience
+My research focuses on the integration and mobilization of species occurrence record data for understanding where species are, why they're there, and what that means for conservation. I am especially interested in how community science data can work with natural history collection data to improve our understanding of species distribution.
 
-Workplace \| Job title \| April 20XX - present
+I am a lifelong naturalist with a passion for insects, birds, reptiles & amphibians, and a budding interest in plants. My current taxonomic focus is on the gall wasps (Cynipoidea).
+
+## Current position
+
+PhD Student \| School of Environmental Studies \| University of Victoria \| British Columbia, Canada \| Sept. 2022 - present
+
