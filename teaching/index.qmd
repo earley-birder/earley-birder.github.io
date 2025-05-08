@@ -3,10 +3,6 @@ title: Teaching
 image: ../images/NatePete2016_DavidCoulson.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: marquee
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/earley-birder
 ---
 
 Note: This site is currently under development.
