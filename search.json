@@ -25,7 +25,7 @@
     "href": "index.html#intro",
     "title": "Nathan G. Earley",
     "section": "Intro",
-    "text": "Intro\nI am an ecologist studying biodiversity and biogeography.\nMy research focuses on the integration and mobilization of species occurrence record data for understanding where species are, why they’re there, and what that means for conservation. I am especially interested in how community science data can work with natural history collection data to improve our understanding of species distribution.\nI am a lifelong naturalist with a passion for insects, birds, reptiles & amphibians, and a budding interest in plants. My current taxonomic focus is on the gall wasps (Cynipoidea)."
+    "text": "Intro\nI am an ecologist studying biodiversity and biogeography in the Starzomski Lab at the University of Victoria.\nMy research focuses on the integration and mobilization of species occurrence records for understanding where species are, why they’re there, and what that means for conservation. I am especially interested in how community science data can work with natural history collection data to improve our understanding of species distribution.\nI am a lifelong naturalist with a passion for insects, birds, reptiles & amphibians, and a budding interest in plants. My current taxonomic focus is on the gall wasps (Cynipoidea)."
   },
   {
     "objectID": "index.html#current-position",
@@ -81,7 +81,28 @@
     "href": "community_science/index.html",
     "title": "Community Science",
     "section": "",
-    "text": "Note: This site is currently under development.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "Note: This site is currently under development."
+  },
+  {
+    "objectID": "community_science/index.html#inaturalist",
+    "href": "community_science/index.html#inaturalist",
+    "title": "Community Science",
+    "section": "iNaturalist",
+    "text": "iNaturalist\nI am an avid iNaturalist user, as both an observer and identifier. I have a broad taxonomic focus while observing but a specific taxonomic focus (Cynipoidea) while identifying. I am the top identifier of Cynipoidea records in Canada on iNaturalist and have identified &gt;75% of the Cynipoidea records in British Columbia.\niNaturalist is a particularly interesting species occurrence dataset due to the broad taxonomic and geographic scope. iNaturalist provides presence-only data, and includes no explicitly defined effort data, making it particularly unwieldy for biodiversity assessments and species distribution modelling.\nSee my iNaturalist profile."
+  },
+  {
+    "objectID": "community_science/index.html#ebird",
+    "href": "community_science/index.html#ebird",
+    "title": "Community Science",
+    "section": "eBird",
+    "text": "eBird\nI have been a keen user of eBird for nearly a decade. I have birded in multiple countries, and most of my international travel revolves around birding. eBird is an excellent resource for bird records. The availability of absence data, abundance data, and effort data in checklists make eBird data particularly powerful for understanding species occurrence.\nSee my eBird profile."
+  },
+  {
+    "objectID": "community_science/index.html#bird-counts-dragonfly-counts-and-butterfly-counts",
+    "href": "community_science/index.html#bird-counts-dragonfly-counts-and-butterfly-counts",
+    "title": "Community Science",
+    "section": "Bird Counts, Dragonfly Counts, and Butterfly Counts",
+    "text": "Bird Counts, Dragonfly Counts, and Butterfly Counts\nI have participated in &gt;10 Christmas Bird Counts in Canada, usually in an area leader/co-leader role and I have participated in three Important Bird Area counts in British Columbia as an area leader/co-leader.\nI have participated in ~10 Dragonfly Counts in Ontario (Algonquin, Haliburton, Hamilton) and multiple Butterfly Counts in Ontario (Algonquin)."
   },
   {
     "objectID": "blog/third-post/index.html",
