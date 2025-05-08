@@ -4,4 +4,46 @@ title: Teaching
 
 Note: This site is currently under development.
 
-{{< lipsum 1 >}}
+## Teaching assistant contracts
+
+University of Victoria, School of Environmental Studies
+
+- ENVS 503/603: Graduate Research Colloquium (2023-2024)
+
+- ENVS 341: Past, Present and Future Ecologies [Restoration Ecology] (2023) 
+
+University of British Columbia - Okanagan
+
+- BIOL 306: Animal Ecology (2021)*
+
+- BIOL 308: Population Biology (2020)*
+
+*Recipient of the 2021 Department of Biology Teaching Assistant Award for Excellence in Teaching
+
+
+## Exam marking contracts
+
+University of Victoria, School of Environmental Studies
+
+- ENVS 341: Past, Present and Future Ecologies [Restoration Ecology] (2023) 
+
+## Mentorship
+
+Early Career Researcher publication mentor \| Natural History Notes \| University of Victoria (September 2023 - present)
+
+- Publication mentor for an undergraduate student writing the *Riccia nigrella* entry in Ellis et al. (2025) "New national and regional bryophyte records, 80." See "Refereed publications" in [Research & Publications](https://earley-birder.github.io/research/).
+
+- Publication mentor for an early career researcher writing "Range extension of a recently described bumblebee: first provincial record of *Bombus kluanensis* (Hymenoptera: Apidae) for British Columbia." Manuscript in preparation for submission to *Journal of the Entomological Society of British Columbia*.
+
+- Publication mentor for an early career researcher writing "First British Columbia record of the larger pygmy mole grasshopper *Neotridactylus apicialis* (Say) (Orthoptera: Caelifera, Tridactylidae)." Manuscript in preparation for submission to *Specimen*.
+
+Undergraduate research project mentor \| Honours \| University of Britisch Columbia (February - August 2022)
+
+- Assisted in the conception of research goals, development of field and statistical methods, and major manuscript edits for an undergraduate research project "Phenology and life history of two reacquainted reunited weevil biocontrol agents (Coleoptera: Curculionidae)." Manuscript submitted to *Canadian Entomologist* December 2024.
+
+Undergraduate research project mentor \| Directed studies \| University of British Columbia (May - December 2021)
+
+- Assisted in the conception of research goals, development of laboratory methodology, and data analysis for an undergraduate research project investigating the non-consumptive effects of parasitoid presence on oviposition of target and non-target *Drosophilia* for biological control.
+
+
+
