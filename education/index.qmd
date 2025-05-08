@@ -1,5 +1,8 @@
 ---
 title: Education
+image: ../images/GkimLjapLhetSEM.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: broadside
 ---
 
 Note: This site is currently under development.
