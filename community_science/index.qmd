@@ -4,4 +4,22 @@ title: Community Science
 
 Note: This site is currently under development.
 
-{{< lipsum 1 >}}
+## iNaturalist
+
+I am an avid iNaturalist user, as both an observer and identifier. I have a broad taxonomic focus while observing but a specific taxonomic focus (Cynipoidea) while identifying. I am the top identifier of Cynipoidea records in Canada on iNaturalist and have identified >75% of the Cynipoidea records in British Columbia.
+
+iNaturalist is a particularly interesting species occurrence dataset due to the broad taxonomic and geographic scope. iNaturalist provides presence-only data, and includes no explicitly defined effort data, making it particularly unwieldy for biodiversity assessments and species distribution modelling. 
+
+See my [iNaturalist profile](https://inaturalist.ca/people/earley_bird).
+
+## eBird
+
+I have been a keen user of eBird for nearly a decade. I have birded in multiple countries, and most of my international travel revolves around birding. eBird is an excellent resource for bird records. The availability of absence data, abundance data, and effort data in checklists make eBird data particularly powerful for understanding species occurrence.
+
+See my [eBird profile](https://ebird.org/profile/ODIwMjUz/world).
+
+## Bird Counts, Dragonfly Counts, and Butterfly Counts
+
+I have participated in >10 Christmas Bird Counts in Canada, usually in an area leader/co-leader role and I have participated in three Important Bird Area counts in British Columbia as an area leader/co-leader. 
+
+I have participated in ~10 Dragonfly Counts in Ontario (Algonquin, Haliburton, Hamilton) and multiple Butterfly Counts in Ontario (Algonquin).
