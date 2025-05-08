@@ -8,9 +8,6 @@ website:
   navbar:
     title: Nathan G. Earley
     left:
-      - text: Home
-        href: index.qmd
-        icon: house
       - text: Research & Publications
         href: research/index.qmd
         icon: book
@@ -20,9 +17,6 @@ website:
       - text: Teaching
         href: teaching/index.qmd
         icon: bus-front
-      - text: Talks
-        href: talks/index.qmd
-        icon: megaphone
       - text: Community Science
         href: community_science/index.qmd
         icon: binoculars
