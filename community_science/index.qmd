@@ -1,5 +1,8 @@
 ---
 title: Community Science
+image: ../images/NahwittiPlateau.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: marquee
 ---
 
 Note: This site is currently under development.
