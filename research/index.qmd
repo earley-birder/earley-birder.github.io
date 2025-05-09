@@ -1,5 +1,8 @@
 ---
 title: Research & Publications
+image: ../images/PFC_SuRDC_DBLT.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: marquee
 ---
 
 Note: This site is currently under development.
