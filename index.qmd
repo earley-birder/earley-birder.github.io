@@ -13,6 +13,15 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 Note: This site is currently under development.
 
+
+## Intro
+
+I am an ecologist studying biodiversity and biogeography in the [Starzomski Lab](https://biodiversity.uvic.ca/) at the University of Victoria.
+
+My research focuses on the integration and mobilization of species occurrence records for understanding where species are, why they're there, and what that means for conservation. I am especially interested in how community science data can work with natural history collection data to improve our understanding of species distribution.
+
+I am a lifelong naturalist with a passion for insects, birds, reptiles & amphibians, and an ever growing interest in plants. My current taxonomic obsession is in the gall wasps (Cynipoidea). 
+
 ## Contact
 
 Nathan G. Earley
@@ -26,12 +35,4 @@ University of Victoria
 nearley@uvic.ca
 
 [earley_bird](https://inaturalist.ca/people/earley_bird) on iNaturalist
-
-## Intro
-
-I am an ecologist studying biodiversity and biogeography in the [Starzomski Lab](https://biodiversity.uvic.ca/) at the University of Victoria.
-
-My research focuses on the integration and mobilization of species occurrence records for understanding where species are, why they're there, and what that means for conservation. I am especially interested in how community science data can work with natural history collection data to improve our understanding of species distribution.
-
-I am a lifelong naturalist with a passion for insects, birds, reptiles & amphibians, and an ever growing interest in plants. My current taxonomic obsession is in the gall wasps (Cynipoidea). 
 
