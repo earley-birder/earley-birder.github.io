@@ -13,7 +13,6 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 Note: This site is currently under development.
 
-
 ## Intro
 
 I am an ecologist studying biodiversity and biogeography in the [Starzomski Lab](https://biodiversity.uvic.ca/) at the University of Victoria.
