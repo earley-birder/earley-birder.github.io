@@ -5,8 +5,6 @@ about: # https://quarto.org/docs/websites/website-about.html
   template: marquee
 ---
 
-Note: This site is currently under development.
-
 ## Teaching overview
 
 I am a passionate science educator dedicated to engaging both academic and public audiences. I’ve been sharing my love of nature for as long as I can remember, leading guided hikes since my early teens. I’m an alumnus of the Natural History Education program in Algonquin Provincial Park, where I worked for four seasons as a Park Naturalist. As an academic science communicator, I draw deeply on my background in nature interpretation. I take pride in my ability to make complex scientific theory, methods, and applications accessible and engaging — without losing sight of the fine details that bring the bigger picture into focus.

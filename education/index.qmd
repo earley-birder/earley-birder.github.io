@@ -5,8 +5,6 @@ about: # https://quarto.org/docs/websites/website-about.html
   template: broadside
 ---
 
-Note: This site is currently under development.
-
 ## PhD student (September 2022 - present)
 
 Ecology (Environmental Studies) \| University of Victoria \| British Columbia, Canada

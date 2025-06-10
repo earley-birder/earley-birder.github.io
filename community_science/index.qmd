@@ -5,8 +5,6 @@ about: # https://quarto.org/docs/websites/website-about.html
   template: marquee
 ---
 
-Note: This site is currently under development.
-
 ## iNaturalist
 
 I am an avid iNaturalist user, as an observer, identifier, and curator. I have a broad taxonomic focus while observing but a specific taxonomic focus (Cynipoidea) while identifying and curating taxonomy. I am the top identifier of Cynipoidea records in Canada on iNaturalist and have identified >75% of the Cynipoidea records in British Columbia.
