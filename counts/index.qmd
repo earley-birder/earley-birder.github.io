@@ -5,7 +5,7 @@ about: # https://quarto.org/docs/websites/website-about.html
   template: broadside
 ---
 
-Join us in the South Okanagan this summer for a Butterfly Count (27 June 2026) and Dragonfly Count (28 June 2026). We will be sampling in the Vaseux Lake Christmas Bird Count [Circle](https://www.inaturalist.ca/observations?place_id=226268) which includes Vaseux Lake Provincial Park, White Lake Grasslands Protected Area, and most of Skaha Lake. There are >45 odonate and >85 butterfly species known from this circle. Can you add more?
+Join us in the South Okanagan this summer for a Butterfly Count (27 June 2026) and Dragonfly Count (28 June 2026). We will be sampling in the Vaseux Lake Christmas Bird Count [Circle](https://www.inaturalist.ca/observations?place_id=226268&subview=map) which includes Vaseux Lake Provincial Park, White Lake Grasslands Protected Area, and most of Skaha Lake. There are >45 odonate and >85 butterfly species known from this circle. Can you add more?
 
 We'll be emailing attendees with more information as we get closer to the date. If you are interested in joining either count, please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfgPtHl60e_P2znMR96BH5KDbAH6Mg86VYXS9B2gtnyoIcyXA/viewform?usp=publish-editor). If you have any comments or questions, please send them to Nathan (nathan.g.earley [at] gmail.com) or Tyler (tyler.nelson [at] live.ca).
 
