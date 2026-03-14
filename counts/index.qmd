@@ -1,5 +1,5 @@
 ---
-title: Insect Counts
+title: South Okanagan Dragonfly and Butterfly Counts
 image: ../images/CountsPics.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: broadside
