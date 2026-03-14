@@ -20,6 +20,9 @@ website:
       - text: Community Science
         href: community_science/index.qmd
         icon: binoculars
+      - text: Counts
+        href: counts/index.qmd
+        icon: bug
     tools:
       - icon: github
         href: "https://github.com/earley-birder"
