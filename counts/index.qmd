@@ -1,5 +1,5 @@
 ---
-title: South Okanagan Dragonfly and Butterfly Counts
+title: South Okanagan Butterfly and Dragonfly Counts
 image: ../images/ArrowheadBlueRAGAN.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: broadside
