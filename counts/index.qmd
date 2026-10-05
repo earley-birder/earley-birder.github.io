@@ -7,7 +7,7 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 ## 2026 SOBaD Count Results
 
-In late June 2026 we ran the South Okanagan Butterfly and Dragonfly Counts in the Vaseux Lake Christmas Bird Count [Circle](https://www.inaturalist.ca/observations?place_id=226268&subview=map&taxon_ids=47792,47224) which includes Vaseux Lake Provincial Park, White Lake Grasslands Protected Area, and most of Skaha Lake. Abundance data was collected in the field for all species and data was also recorded in our [iNaturalist project](https://www.inaturalist.ca/projects/sobad-counts-june-2026) when possible.
+In late June 2026 we ran the South Okanagan Butterfly and Dragonfly Counts in the Vaseux Lake Christmas Bird Count [Circle](https://www.inaturalist.ca/observations?place_id=226268&subview=map&taxon_ids=47792,47224) which includes Vaseux Lake Provincial Park, White Lake Grasslands Protected Area, and most of Skaha Lake. Abundance data was collected in the field for all species and we recorded some occurrence data in our [iNaturalist project](https://www.inaturalist.ca/projects/sobad-counts-june-2026).
 
 Despite the poor weather, 19 participants in 5 parties recorded 518 individuals of 34 butterfly species on Saturday, June 27th and 8 observers in 4 parties recorded 1629 individuals of 15 dragonfly species on Sunday, June 28th. This represents about a third of the known species richness of both of these groups in the sampling area. 
 
